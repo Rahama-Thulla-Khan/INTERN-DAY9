@@ -1,6 +1,6 @@
 🚀 Internship Day 9 - React.js Setup & About Me Card
 
-📅 Date: [07/02/2025]
+📅 Date: [06/02/2025]
 
 🏢 Internship at: [TOP TECH DEVELOPER]
 
